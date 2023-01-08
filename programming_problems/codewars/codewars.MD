@@ -73,8 +73,8 @@
 |47|x|x|x|
 |48|x|x|x|
 |49|x|x|x|
-|50|x|x|x|
-|51|[Basic Training: Add item to an Array](https://www.codewars.com/kata/511f0fe64ae8683297000001)| [Solution](./8kyu/Basic_Training_Add_item_to_an_Array.py) | **Weird**, list method|
+|50|[Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)|[Solution](./8kyu/Array_plus_array.py)|**Poorly Framed**, list method|
+|51|[Basic Training: Add item to an Array](https://www.codewars.com/kata/511f0fe64ae8683297000001)| [Solution](./8kyu/Basic_Training_Add_item_to_an_Array.py) | **Poorly Framed**, list method|
 
 ### 7 kyu
 
