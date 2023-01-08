@@ -6,7 +6,7 @@
 | ----|:----------:| ----|
 |8 kyu |	0      | ✔️ |
 |7 kyu |	20     | ✔️ |
-|6 kyu |	76     | |
+|6 kyu |	76     | ✔️ |
 |5 kyu |	229    | |
 |4 kyu |	643    | |
 |3 kyu |	1,768  | |
@@ -17,8 +17,8 @@
 
 
 
-- ✔️ : unlocked rank
-- 🌟 : solved 50 problems for the particular rank
+- ✔️ : Achieved Rank
+- 🌟 : Solved 50 or more problems for the particular rank
 
 ### 8 kyu
 
