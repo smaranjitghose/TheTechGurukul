@@ -2,7 +2,7 @@
 
 
 ## Levels
-|Rank |Required Score| Trial |
+|Rank |Required Score| Tracking |
 | ----|:----------:| ----|
 |8 kyu |	0      | ✔️ |
 |7 kyu |	20     | ✔️ |
@@ -74,6 +74,7 @@
 |48|x|x|x|
 |49|x|x|x|
 |50|x|x|x|
+|51|[Basic Training: Add item to an Array](https://www.codewars.com/kata/511f0fe64ae8683297000001)| Solution | **Weird**, list method|
 
 ### 7 kyu
 
